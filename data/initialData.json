@@ -1,0 +1,35 @@
+{
+  "cardResults": [{
+    "cardHolderName": "DIEGO TICONA",
+    "cardNumber": "5431143556769999",
+    "cardMonth": "06",
+    "cardYear": "2021",
+    "cardCvv": "621",
+    "cardColor": null,
+    "cardType": "CREDIT"
+  }, {
+    "cardHolderName": "ROMAIN RASTEL",
+    "cardNumber": "3431143552936998",
+    "cardMonth": "11",
+    "cardYear": "2025",
+    "cardCvv": "125",
+    "cardColor": null,
+    "cardType": "CREDIT"
+  }, {
+    "cardHolderName": "NILAY YENER",
+    "cardNumber": "9431233556769995",
+    "cardMonth": "02",
+    "cardYear": "2030",
+    "cardCvv": "230",
+    "cardColor": null,
+    "cardType": "CREDIT"
+  }, {
+    "cardHolderName": "PAWAN FERNANDEZ",
+    "cardNumber": "2431142342346767",
+    "cardMonth": "08",
+    "cardYear": "2020",
+    "cardCvv": "820",
+    "cardColor": null,
+    "cardType": "CREDIT"
+  }]
+}
